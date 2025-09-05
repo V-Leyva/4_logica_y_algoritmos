@@ -1,0 +1,11 @@
+{
+    "nombre" : "Herbie",
+    "edad" : 10,
+    "esterilizado" : false,
+    "duenio" : {
+        "nombre" : "Victor",
+        "edad" : 27
+    },
+    "hermanos" : ["Pelusa"],
+    "hijos" : null
+}
